@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "bulan": "Januari",
+    "konsumsi_energi": "0,03",
+    "perkiraan_tagihan": "186,75"
+  },
+  {
+    "id": 2,
+    "bulan": "Februari",
+    "konsumsi_energi": "0,05",
+    "perkiraan_tagihan": "200"
+  },
+  {
+    "id": 3,
+    "bulan": "Maret",
+    "konsumsi_energi": "0,04",
+    "perkiraan_tagihan": "190"
+  }
+]
