@@ -17,7 +17,7 @@
 				"kode_pos": "65151",
 				"no_telp": ""
 			},
-			"anggota_kk": {			
+			"anggota": {			
 			    "NIK": "3507226004500002", 
 				"nama": "SANITI", 
 				"jk": "P", 
@@ -44,7 +44,7 @@
 				"kode_pos": "65151",
 				"no_telp": ""
 			},
-			"anggota_kk": [
+			"anggota": [
 				{			
 				    "NIK": "3507222703650001", 
 					"nama": "VERY SANTOSO", 
