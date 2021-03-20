@@ -517,6 +517,228 @@
 					"ayah": "ABDOL ROKIM"
 				}
 			]
-		}
+		},
+		{
+		    "id": 8,
+		    "nomor_kk": "3507220101046728", 
+			"nama_kk": "SUPII",
+			"alamat": {				
+				"dusun": "KARANG TENGAH",
+				"rt": 1,
+				"rw": 1,
+				"kode_pos": "65151",
+				"no_telp": ""
+			},
+		"anggota": [
+				{			
+				    "NIK": "3507222610570001", 
+					"nama": "SUPII", 
+					"jk": "L", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "10/26/1957",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Kepala Keluarga",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "PETANI/PEKEBUN",
+					"ibu": "SANATUN", 
+					"ayah": "RAJIYO"
+				},
+				{			
+				    "NIK": "3507226506550002",
+					"nama": "SUPARMI", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "6/25/1955",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "kawin",
+					"SHDRT": "Isteri",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "PETANI/PEKEBUN",
+					"ibu": "WAKINAH", 
+					"ayah": "WARIMIN"
+				},
+				{			
+					"NIK": "3507226303800001",
+					"nama": "MISKAYAH", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "3/23/1980",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Anak",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "PETANI/PEKEBUN",
+					"ibu": "SUPARMI", 
+					"ayah": "SUPII"
+				},
+				{
+					"NIK": "3507221507780002",
+					"nama": "SAMSU HERI SETIAWAN", 
+					"jk": "L", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "7/15/1978",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Menantu",
+					"pendidikan": "SLTP/Sederajat",
+					"pekerjaan": "KARYAWAN SWASTA",
+					"ibu": "PONIRAH", 
+					"ayah": "WAYAT"
+				},
+				{			
+					"NIK": "3507221511980001",
+					"nama": "TONI BAGUS MUSLIMIN", 
+					"jk": "L", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "11/15/1998",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Belum Kawin",
+					"SHDRT": "Cucu",
+					"pendidikan": "SLTP/Sederajat",
+					"pekerjaan": "PELAJAR/MAHASISWA",
+					"ibu": "MISKAYAH", 
+					"ayah": "SAMSU HERI SETIAWAN"
+				},
+				{			
+					"NIK": "3507225012110002",
+					"nama": "NANDA SAFITRI UMAIROH", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "12/10/2011",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Belum Kawin",
+					"SHDRT": "Cucu",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "BELUM/TIDAK BEKERJA",
+					"ibu": "MISKAYAH", 
+					"ayah": "SAMSU HERI SETIAWAN"
+				}
+			]
+		},
+		{
+		    "id": 9,
+		    "nomor_kk": "3507220101046731", 
+			"nama_kk": "KADI",
+			"alamat": {				
+				"dusun": "KARANG TENGAH",
+				"rt": 1,
+				"rw": 1,
+				"kode_pos": "65151",
+				"no_telp": ""
+			},
+		"anggota": [	
+				{			
+				    "NIK": "3507220712630001", 
+					"nama": "KADI", 
+					"jk": "L", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "12/7/1963",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Kepala Keluarga",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "WIRASWASTA",
+					"ibu": "KASEMI", 
+					"ayah": "RAMU"
+				},
+				{			
+				    "NIK": "3507224404660003",
+					"nama": "NITI RAHAYU", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "4/4/1966",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Isteri",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "WIRASWASTA",
+					"ibu": "YARNI", 
+					"ayah": "M YAKIN"
+				}
+			]
+		},
+		{
+		    "id": 10,
+		    "nomor_kk": "3507220101046745", 
+			"nama_kk": "SUPRIANTO",
+			"alamat": {				
+				"dusun": "KARANG TENGAH",
+				"rt": 1,
+				"rw": 1,
+				"kode_pos": "65151",
+				"no_telp": ""
+			},
+		"anggota": [	
+				{			
+				    "NIK": "3507220806790001", 
+					"nama": "SUPRIANTO", 
+					"jk": "L", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "6/8/1979",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Kepala Keluarga",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "KARYAWAN SWASTA",
+					"ibu": "JUWARAH", 
+					"ayah": "WASIRI"
+				},
+				{			
+				    "NIK": "3507226903840003",
+					"nama": "SITI AMINAH", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "3/29/1984",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Kawin",
+					"SHDRT": "Isteri",
+					"pendidikan": "SLTP/Sederajat",
+					"pekerjaan": "KARYAWAN SWASTA",
+					"ibu": "SUKARTI", 
+					"ayah": "MULYONO"
+				},
+				{			
+				    "NIK": "3507225805030001",
+					"nama": "AURORA ANNA CHOIRUL NISA", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "5/18/2003",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Belum Kawin",
+					"SHDRT": "Anak",
+					"pendidikan": "Belum Tamat SD/Sederajat",
+					"pekerjaan": "PELAJAR/MAHASISWA",
+					"ibu": "SITI AMINAH", 
+					"ayah": "SUPRIANTO"
+				},
+				{			
+				    "NIK": "3507224911360001",
+					"nama": "JUWARAH", 
+					"jk": "P", 
+					"tempat_lahir": "MALANG",
+					"tgl_lahir": "11/9/1936",
+					"gdr": "Tidak Tahu",
+					"agama": "Islam",
+					"status": "Cerai Mati",
+					"SHDRT": "Orang Tua",
+					"pendidikan": "Tamat SD/Sederajat",
+					"pekerjaan": "PEDAGANG",
+					"ibu": "B DAKIM", 
+					"ayah": "DAKIM"
+				}
+			]
+		}	
 	]
 }
